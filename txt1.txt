@@ -1,2 +1,3 @@
 new
 second
+this line is from feature 2
